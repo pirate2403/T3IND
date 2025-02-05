@@ -1,12 +1,13 @@
 # Тестовое задание T3IND
 
 ### Ссылка на развернутый проект
-
 - [Vercel](https://t3-ind.vercel.app/)
 
 ### Макет
-
 - [Figma](https://www.figma.com/design/L0h8LFwe6aSLMxPrrkrRti/%D0%A2%D0%97-IND-TS?node-id=1-2806&t=ynZoo4IOz8ezMjIz-0)
+
+### Репозиторий
+ - [Github](https://github.com/pirate2403/T3IND)
 
 ### Стэк
 
